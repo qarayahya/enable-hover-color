@@ -1,6 +1,6 @@
 # Enable Hover Color
 
-![Enable Hover Color](https://github.com/qarayahya/enable-hover-color/blob/main/_wordpress-org/banner-1544x500.png) 
+![Enable Hover Color](https://github.com/qarayahya/enable-hover-color/blob/master/_wordpress-org/banner-1544x500.png) 
 
 Add hover color effects to your Gutenberg blocks easily with customizable transitions.
 
