@@ -1,0 +1,46 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/index.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+.has-hover__color:not(.wp-block-button) {
+  transition: color var(--hover-transition-duration, 200ms) var(--hover-transition-timing, ease);
+}
+.has-hover__color:not(.wp-block-button):hover {
+  color: var(--hover-color) !important;
+}
+
+.has-hover__background-color:not(.wp-block-button) {
+  transition: background-color var(--hover-transition-duration, 200ms) var(--hover-transition-timing, ease);
+}
+.has-hover__background-color:not(.wp-block-button):hover {
+  background-color: var(--hover-background-color) !important;
+}
+
+.has-hover__border-color:not(.wp-block-button) {
+  transition: border-color var(--hover-transition-duration, 200ms) var(--hover-transition-timing, ease);
+}
+.has-hover__border-color:not(.wp-block-button):hover {
+  border-color: var(--hover-border-color) !important;
+}
+
+.wp-block-button.has-hover__color .wp-element-button {
+  transition: color var(--hover-transition-duration, 200ms) var(--hover-transition-timing, ease);
+}
+.wp-block-button.has-hover__color:hover .wp-element-button {
+  color: var(--hover-color) !important;
+}
+
+.wp-block-button.has-hover__background-color .wp-element-button {
+  transition: background-color var(--hover-transition-duration, 200ms) var(--hover-transition-timing, ease);
+}
+.wp-block-button.has-hover__background-color:hover .wp-element-button {
+  background-color: var(--hover-background-color) !important;
+}
+
+.wp-block-button.has-hover__border-color .wp-element-button {
+  transition: border-color var(--hover-transition-duration, 200ms) var(--hover-transition-timing, ease);
+}
+.wp-block-button.has-hover__border-color:hover .wp-element-button {
+  border-color: var(--hover-border-color) !important;
+}
+
+/*# sourceMappingURL=style.css.map*/
